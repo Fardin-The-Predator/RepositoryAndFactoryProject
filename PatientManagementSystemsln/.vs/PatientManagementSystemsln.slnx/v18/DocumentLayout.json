@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\manager\\inpatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\manager\\inpatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|c:\\users\\pc\\desktop\\1295560\\csharp\\final project\\patientmanagementsystemsln\\patientmanagementsystemsln\\patientmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\repository\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\manager\\outpatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\manager\\outpatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\manager\\ipatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\manager\\ipatientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\factory\\patientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\factory\\patientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\factory\\outpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\factory\\outpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\factory\\inpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\factory\\inpatientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\patientmanagementsystem\\entities\\patienttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11C59F7-54CA-46DB-B010-51E54F047F1B}|PatientManagementSystem\\PatientManagementSystem.csproj|solutionrelative:patientmanagementsystem\\entities\\patienttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutPatientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Factory\\OutPatientFactory.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Factory\\OutPatientFactory.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Factory\\OutPatientFactory.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Factory\\OutPatientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Factory\\PatientFactory.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Factory\\PatientFactory.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Factory\\PatientFactory.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Factory\\PatientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:47:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InPatientManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Manager\\InPatientManager.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Manager\\InPatientManager.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Manager\\InPatientManager.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Manager\\InPatientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPatientManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Manager\\IPatientManager.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Manager\\IPatientManager.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Manager\\IPatientManager.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Manager\\IPatientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutPatientManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Manager\\OutPatientManager.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Manager\\OutPatientManager.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Manager\\OutPatientManager.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Manager\\OutPatientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Program.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwOUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:58:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Entities\\Patient.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InPatientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Factory\\InPatientFactory.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Factory\\InPatientFactory.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Factory\\InPatientFactory.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Factory\\InPatientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Repository\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Repository\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Repository\\PatientRepository.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Repository\\PatientRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Repository\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Repository\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Repository\\IPatientRepository.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Repository\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientType.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Entities\\PatientType.cs",
+              "RelativeDocumentMoniker": "PatientManagementSystem\\Entities\\PatientType.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\1295560\\CSharp\\Final Project\\PatientManagementSystemsln\\PatientManagementSystemsln\\PatientManagementSystem\\Entities\\PatientType.cs",
+              "RelativeToolTip": "PatientManagementSystem\\Entities\\PatientType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:41:36.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

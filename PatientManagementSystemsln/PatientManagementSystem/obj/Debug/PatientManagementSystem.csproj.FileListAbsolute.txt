@@ -1,0 +1,22 @@
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+C:\Users\pc\Desktop\1295560\CSharp\Practices\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb
+C:\Users\pc\Desktop\1295560\CSharp\Final Project\PatientManagementSystemsln\PatientManagementSystemsln\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe.config
